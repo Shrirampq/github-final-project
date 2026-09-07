@@ -1,3 +1,17 @@
-# GitHub Final Project
+# Simple Interest Calculator
 
-This project demonstrates basic Git and GitHub skills, including repository management, version control, and collaboration workflows.
+This project is a simple interest calculator.
+
+## Formula
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Input
+
+- Principal amount
+- Rate of interest
+- Time period in years
+
+## Output
+
+The calculator displays the calculated simple interest.
